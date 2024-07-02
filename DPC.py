@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 12 09:25:29 2023
 
-@author: xiaoke.mu
+@author: py4dstem
 """
 
 import py4DSTEM
